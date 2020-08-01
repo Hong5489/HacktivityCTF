@@ -3,8 +3,8 @@
 Wow, look at the size of that! There is just so much to eat!
 
 Download the file below.
-[prompt.txt](prompt.txt)
 ```
+[prompt.txt](prompt.txt)
 
 Look in the `prompt.txt` is obviously a **RSA crypto challenge**
 ```py
